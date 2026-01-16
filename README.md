@@ -116,8 +116,8 @@ Pair with HC-05 using default PIN: 0000 or 1234
 ---
 
 ## 🎥 Project Demo Video
-
-[![Bluetooth RC Car Demo](images/car_with_different_frame_design.jpeg)](video/Bluetooth_RC_Car_Demo.mp4)
+🔗 **Click here to watch the Bluetooth RC Car demo:**  
+[Google Drive – Project Demo Video](https://drive.google.com/file/d/19VugccY8szb6zCZUG1RpigRMaMEaHonB/view?usp=sharing)
 
 ---
 
